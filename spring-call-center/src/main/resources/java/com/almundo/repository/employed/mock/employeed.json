@@ -1,0 +1,52 @@
+[
+  {
+    "type": "OPERATOR",
+    "name": "Juan",
+    "available": true
+  },
+  {
+    "type": "OPERATOR",
+    "name": "Camilo",
+    "available": true
+  },
+  {
+    "type": "OPERATOR",
+    "name": "Pedro",
+    "available": true
+  },
+  {
+    "type": "OPERATOR",
+    "name": "Maria",
+    "available": true
+  },
+  {
+    "type": "OPERATOR",
+    "name": "Juan",
+    "available": true
+  },
+  {
+    "type": "OPERATOR",
+    "name": "Pablo",
+    "available": true
+  },
+  {
+    "type": "SUPERVISOR",
+    "name": "Martin",
+    "available": true
+  },
+  {
+    "type": "SUPERVISOR",
+    "name": "Jorge",
+    "available": true
+  },
+  {
+    "type": "DIRECTOR",
+    "name": "Sebastian",
+    "available": true
+  },
+  {
+    "type": "DIRECTOR",
+    "name": "Andrea",
+    "available": true
+  }
+]
